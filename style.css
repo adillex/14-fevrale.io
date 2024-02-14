@@ -1,0 +1,66 @@
+html {
+    background: linear-gradient(270deg,
+#8AEFDE, #A3DF21,#75F7C8,
+#C492FF ,#FB6CFF,#FF5078,
+#AA36E8,#BF9DDF
+
+);
+    background-size: 800% 800%;
+
+    -webkit-animation: AnimationName 30s ease infinite;
+    -moz-animation: AnimationName 30s ease infinite;
+    animation: AnimationName 30s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  
+}
+body{
+  font-family: 'Playfair Display', sans-serif;
+  font-weight: 400000;
+  color: white;
+}
+
+#text {
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
+
+#text.show {
+  opacity: 1;
+}
+audio {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: -1;
+  opacity: 0.5;
+}
+
+@font-face {
+  font-family: 'Engine';
+  src: url('Engine.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
