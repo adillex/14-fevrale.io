@@ -12,7 +12,7 @@ function changeText() {
     changeText();
   }, 19500);
   setTimeout(() => {
-    text.textContent = "выходи за муж";
+    text.textContent = "выходи за меня за муж";
   }, 18000);
   setTimeout(() => {
     text.textContent = "created by adi11ex";
