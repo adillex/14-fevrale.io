@@ -39,7 +39,7 @@ function changeText() {
     text.textContent = "ты самая";
   }, 1500);
   setTimeout(() => {
-    text.textContent = "Настя";
+    text.textContent = "Яна";
   }, 0);
   
 }
