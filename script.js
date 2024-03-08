@@ -12,16 +12,16 @@ function changeText() {
     changeText();
   }, 19500);
   setTimeout(() => {
-    text.textContent = "выходи за меня за муж";
+    text.textContent = "created by adi11ex";
   }, 18000);
   setTimeout(() => {
-    text.textContent = "created by adi11ex";
+    text.textContent = "с днем рождения";
   }, 16500);
   setTimeout(() => {
     text.textContent = "с 8 марта";
   }, 15000);
   setTimeout(() => {
-    text.textContent = "лучше я уже не найду";
+    text.textContent = "Олег лучше не найдет";
   }, 12000);
   setTimeout(() => {
     text.textContent = "лучшая женщина из всех";
@@ -30,22 +30,22 @@ function changeText() {
     text.textContent = "одним словом";
   }, 9000);
   setTimeout(() => {
-    text.textContent = "добрая";
+    text.textContent = "добрейшей души сапорт";
   }, 7500);
   setTimeout(() => {
-    text.textContent = "интересная";
+    text.textContent = "гениальнейший автор";
   }, 6000);
   setTimeout(() => {
-    text.textContent = "веселая";
+    text.textContent = "топовый керри";
   }, 4500);
   setTimeout(() => {
-    text.textContent = "угарная";
+    text.textContent = "смелый лесник";
   }, 3000);
   setTimeout(() => {
     text.textContent = "ты самая";
   }, 1500);
   setTimeout(() => {
-    text.textContent = "Яна";
+    text.textContent = "Моника";
   }, 0);
   
 }
