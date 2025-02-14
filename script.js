@@ -15,37 +15,37 @@ function changeText() {
     text.textContent = "created by adi11ex";
   }, 18000);
   setTimeout(() => {
-    text.textContent = "с днем рождения";
+    text.textContent = "какой кренге, хорошо что я пьян";
   }, 16500);
   setTimeout(() => {
-    text.textContent = "с 8 марта";
+    text.textContent = "с 14 февраля";
   }, 15000);
   setTimeout(() => {
-    text.textContent = "Олег лучше не найдет";
+    text.textContent = "не оставлять же тебя в этот день без подгона";
   }, 12000);
   setTimeout(() => {
-    text.textContent = "лучшая женщина из всех";
+    text.textContent = "самый митый из всех";
   }, 10500);
   setTimeout(() => {
     text.textContent = "одним словом";
   }, 9000);
   setTimeout(() => {
-    text.textContent = "добрейшей души сапорт";
+    text.textContent = "лидер нашего отдела";
   }, 7500);
   setTimeout(() => {
-    text.textContent = "гениальнейший автор";
+    text.textContent = "опора команды";
   }, 6000);
   setTimeout(() => {
-    text.textContent = "топовый керри";
+    text.textContent = "топовый дизайнер";
   }, 4500);
   setTimeout(() => {
-    text.textContent = "смелый лесник";
+    text.textContent = "гениальный прогер";
   }, 3000);
   setTimeout(() => {
-    text.textContent = "ты самая";
+    text.textContent = "в этот прекрасный день хочу сказать";
   }, 1500);
   setTimeout(() => {
-    text.textContent = "Моника";
+    text.textContent = "Фара";
   }, 0);
   
 }
